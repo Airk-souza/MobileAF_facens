@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613076627848",
+    "project_id": "seriesaf-5f12c",
+    "storage_bucket": "seriesaf-5f12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613076627848:android:d383dc213078e857de8a3d",
+        "android_client_info": {
+          "package_name": "com.example.mobileaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOtXz5wTrT8GI-ymvb9fmVpNWqN0CGysI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
